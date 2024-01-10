@@ -2,9 +2,9 @@
 
 I'm a driven Software Developer based in Vancouver, Canada, specializing in crafting robust solutions and optimizing processes.
 
-🖥 Explore more about my work on my <a href="https://claredang.com/#/">personal website</a>.
+🖥 Explore more about my work on <a href="https://claredang.com/#/">claredang.com</a>.
 
-🔭 Currently, I'm doing research about Interior Design Styles detection using a Deep-Learning Model for Reference Images. Check out the dedicated <a href="https://dream-home-com.onrender.com/#/">website</a> I've created applied this technique.
+🔭 Currently, I'm doing research about Interior Design Styles detection using a Deep-Learning Model for Reference Images. Check out the dedicated <a href="https://dream-home-com.onrender.com/#/">website</a> I've created applied this technique ✨💡
 
 **I am open to**:
 
@@ -25,7 +25,6 @@ I'm a driven Software Developer based in Vancouver, Canada, specializing in craf
 - **Cloud Technologies**: AWS, Microsoft Azure, GCP
 - **Machine Learning**: TensorFlow, Scikit-learn, fastAPI, NumPy, Pandas, Plotly
 
-##
+## Github Stats
 
-![Clare's Github Stats](https://github-readme-stats-pi-five-30.vercel.app/api?username=claredang&hide=issues,contribs&count_private=true&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats-pi-five-30.vercel.app/api/top-langs/?username=claredang&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
