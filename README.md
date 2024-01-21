@@ -4,7 +4,7 @@ I'm a driven Software Developer based in Vancouver, Canada, specializing in craf
 
 🖥 Explore more about my work on <a href="https://claredang.com/#/">claredang.com</a>.
 
-🔭 Currently, I'm doing research about Interior Design Styles detection using a Deep-Learning Model for Reference Images. Check out the dedicated <a href="https://dream-home-server-umber.vercel.app">website</a> I've created applied this technique ✨💡
+🔭 Currently, I'm doing research about Interior Design Styles detection using a Deep-Learning Model for Reference Images.
 
 **I am open to**:
 
