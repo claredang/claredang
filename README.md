@@ -11,12 +11,6 @@ I'm a driven Software Developer based in Vancouver, Canada, specializing in craf
 - Full-stack Web and Mobile Development
 - Machine Learning (both Development and Research)
 
-**My Reseach Interest**:
-
-- Computer Vision
-- Applied Generative AI
-- Classification
-
 ## Skills
 
 - **Languages**: Python, JavaScript, C/C++, HTML/CSS, Ruby, Bash
