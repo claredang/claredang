@@ -1,15 +1,6 @@
 # Hi, I'm Clare Dang 🌱
 
-I'm a driven Software Developer based in Vancouver, Canada, specializing in crafting robust solutions and optimizing processes.
-
 🖥 Explore more about my work on <a href="https://claredang.com/#/">claredang.com</a>.
-
-🔭 Currently, I'm doing research about Interior Design Styles detection using a Deep-Learning Model for Reference Images.
-
-**I am open to**:
-
-- Full-stack Web and Mobile Development
-- Machine Learning (both Development and Research)
 
 ## Skills
 
